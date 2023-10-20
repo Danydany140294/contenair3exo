@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body {
+    background-color:rgb(95, 138, 163);
+    color: chocolate; 
+   
+    
+}
+
+
+
+.bigbloc {
+
+    display:flex;
+}
+
+.bloc-2 {
+    display: flex;
+}
+
+.bloc-3 {
+    display: flex;
+}
+.bloc4 img {
+
+    width: auto ;
+    height: auto ;
+
+}
+

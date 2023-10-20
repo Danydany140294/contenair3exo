@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color:rgb(95, 138, 163);
+}
+body {
+    background-color:rgb(95, 138, 163);
+    color: chocolate;
+    
+    
+}
+
+.bandeau {
+
+    display: inline-flex;
+}
